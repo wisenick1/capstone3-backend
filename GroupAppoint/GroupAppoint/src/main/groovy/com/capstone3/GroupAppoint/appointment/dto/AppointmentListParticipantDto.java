@@ -8,6 +8,6 @@ import lombok.*;
 @AllArgsConstructor
 @Builder
 public class AppointmentListParticipantDto {
-    private Integer accountId;
+    private Integer userId;
     private String profile;
 }

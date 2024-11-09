@@ -8,7 +8,7 @@ import lombok.*;
 @AllArgsConstructor
 @Builder
 public class EndParticipantDto {
-    private Integer accountId;
+    private Integer userId;
     private String profile;
     private Long lateTime;
     private Integer isOnTime;
