@@ -28,6 +28,7 @@ application-awsdb.properties
 .idea/**/dataSources.ids
 .idea/**/dataSources.local.xml
 .idea/**/sqlDataSources.xml
+.idea/**/dataSources.xml
 .idea/**/dynamic.xml
 .idea/**/uiDesigner.xml
 .idea/**/dbnavigator.xml
@@ -41,9 +42,9 @@ application-awsdb.properties
 # since they will be recreated, and may cause churn.  Uncomment if using
 # auto-import.
 # .idea/artifacts
-# .idea/compiler.xml
+.idea/compiler.xml
 # .idea/jarRepositories.xml
-# .idea/modules.xml
+.idea/modules.xml
 # .idea/*.iml
 # .idea/modules
 # *.iml
@@ -90,7 +91,7 @@ fabric.properties
 
 # *.iml
 # modules.xml
-# .idea/misc.xml
+.idea/misc.xml
 # *.ipr
 
 # Sonarlint plugin
