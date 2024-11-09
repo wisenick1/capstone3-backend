@@ -7,7 +7,7 @@ import java.time.LocalTime;
 @Getter
 @Setter
 public class MyEndAppointmentDto {
-    private Integer accountId;
+    private Integer userId;
     private String profile;
     private Boolean isOnTime;
     private LocalTime arrivalTime;     //도착 시간
